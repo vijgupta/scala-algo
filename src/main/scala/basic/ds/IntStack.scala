@@ -1,7 +1,7 @@
 package basic.ds
 
 /**
-  * Created by vgupta on 1/20/18.
+  * @author vijgupta
   */
 class IntStack {
   private var top : Int  = 0
